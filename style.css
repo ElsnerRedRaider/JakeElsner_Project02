@@ -1,0 +1,55 @@
+/* General Page Style */
+
+nav {
+    color: #0fba27;
+    background-color: #000000;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: #9f9fa0;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+body {
+background-color: #000000;
+color: #0fba27;
+}
+
+h1 {
+    color: #DEDFDD;
+    }
+
+    a {
+        color: #9f9fa0;
+    }
+
+    h2 {
+        color: #DEDFDD;
+    }
+    div {
+
+width: 200px;
+
+height: 100px;
+
+background-color: #000000;
+
+border: 25px solid #0fba27;
+
+padding: 10px;
+
+margin: 100px;
+
+
+    }
+
+    footer {
+    background-color: #0fba27;
+    color: #000000;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
